@@ -1,0 +1,43 @@
+_repo: Marie-Claire_20572
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Raphael, John N. (John Nathan)
+    alias: Raphael, John Nathan Percival
+    birthdate: 1868
+    deathdate: 1917
+    gutenberg_agent_id: '9398'
+    url: http://www.gutenberg.org/2009/agents/9398
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Audoux, Marguerite
+    birthdate: 1863
+    deathdate: 1937
+    gutenberg_agent_id: '9397'
+    url: http://www.gutenberg.org/2009/agents/9397
+    wikipedia: http://en.wikipedia.org/wiki/Marguerite_Audoux
+description: Audoux's first novel is the most autobiographical of the four. She describes
+  her childhood and adolescence, inculding the story of her mother's death, her father's
+  departure, and the nine years she spent in the orphanage of the convent Hôpital
+  Général de Bourges. The second part of the novel takes place on the farm in Villevielle
+  where Marie-Claire's first employers Master Sylvain and Pauline surround the young
+  shepardess with good-hearted affection. In the third part, Marie-Claire, now a young
+  woman, falls in love with Henri Deslois, the brother of the farmer's wife who followed
+  Pauline. The young man's mother forbids Marie-Claire to see her son again. Marie-Claire
+  returns to the convent before leaving for Paris.
+gutenberg_issued: '2007-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+title: Marie Claire
+url: http://www.gutenberg.org/ebooks/20572
